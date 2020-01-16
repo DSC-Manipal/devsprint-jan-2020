@@ -20,10 +20,13 @@ TBD
 | Pandas            | https://github.com/pandas-dev/pandas | https://pandas-docs.github.io/pandas-docs-travis/development/contributing.html                                       |
 | Matplotlib        | https://matplotlib.org/              | https://matplotlib.org/devdocs/devel/contributing.html                                                               |
 | Django            | https://www.djangoproject.com/       |  https://docs.djangoproject.com/en/dev/internals/contributing/  https://code.djangoproject.com/wiki/SummerOfCode2020 |
+|Apertium  |https://www.apertium.org/index.eng.html?dir=spa-epo#translation  | http://wiki.apertium.org/wiki/Become_a_language_pair_developer_for_Apertium
 |Checker Framework  | https://checkerframework.org/        | https://rawgit.com/typetools/checker-framework/master/docs/developer/gsoc-ideas.html|
 |PostgreSQL  | https://www.postgresql.org        | https://www.postgresql.org/developer/summerofcode/|
 |SymPy  | https://sympy.org/        | https://docs.sympy.org/1.5.1/guide.html#contributing
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
+|Theano |https://github.com/Theano/Theano |http://deeplearning.net/software/theano/dev_start_guide.html
 |Zulip Chat | https://zulipchat.com/ | https://zulip.readthedocs.io/en/latest/overview/contributing.html| 
+
