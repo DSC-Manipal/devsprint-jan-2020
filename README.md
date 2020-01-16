@@ -27,5 +27,3 @@ TBD
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
 
-|Zulip Chat | https://zulipchat.com/ | https://zulip.readthedocs.io/en/latest/overview/contributing.html 
-
