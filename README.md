@@ -11,7 +11,7 @@ https://rogerdudler.github.io/git-guide/
 
 ## Agenda
 Prerequisites: Please come with Git already installed.
-TBD
+Timings: 9am to 5pm
 
 ## Suggested Organizations/Projects (in no particular order):
 
@@ -26,3 +26,18 @@ TBD
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
