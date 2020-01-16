@@ -27,5 +27,3 @@ TBD
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
 |Redash | https://redash.io/    |https://github.com/getredash/redash/blob/master/CONTRIBUTING.md |
-
-
