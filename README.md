@@ -11,7 +11,7 @@ https://rogerdudler.github.io/git-guide/
 
 ## Agenda
 Prerequisites: Please come with Git already installed.
-TBD
+Timings: 9am to 5pm
 
 ## Suggested Organizations/Projects (in no particular order):
 
