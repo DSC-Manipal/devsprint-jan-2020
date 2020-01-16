@@ -23,4 +23,4 @@ TBD
 |Checker Framework  | https://checkerframework.org/        | https://rawgit.com/typetools/checker-framework/master/docs/developer/gsoc-ideas.html|
 |PostgreSQL  | https://www.postgresql.org        | https://www.postgresql.org/developer/summerofcode/|
 |SymPy  | https://sympy.org/        | https://docs.sympy.org/1.5.1/guide.html#contributing
-|NumFOCUS  |http://numfocus.org/     | https://docs-cupy.chainer.org/en/stable/contribution.html
+|NumFOCUS  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
